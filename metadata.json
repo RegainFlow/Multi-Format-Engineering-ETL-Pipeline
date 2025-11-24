@@ -1,0 +1,5 @@
+{
+  "name": "RegainFlow Pipeline Visualizer",
+  "description": "A high-performance dashboard for monitoring the C# to Elasticsearch document processing pipeline, featuring a Glassmorphism + Neon aesthetic.",
+  "requestFramePermissions": []
+}
