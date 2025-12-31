@@ -47,7 +47,7 @@ function App() {
         <header className="sticky top-0 z-40 bg-[#121213]/80 backdrop-blur-md border-b border-white/5 px-8 py-4 flex items-center justify-between">
           <div>
             <h1 className="text-xl font-bold font-logo tracking-wide flex items-center gap-2">
-              <span className="text-primary">Regain</span>Flow
+              <span className="text-primary">Multi-Format</span> ETL Pipeline
             </h1>
             <p className="text-xs text-gray-500 font-mono">Pipeline Status: <span className="text-green-400">OPERATIONAL</span></p>
           </div>

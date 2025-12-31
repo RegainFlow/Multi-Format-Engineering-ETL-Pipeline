@@ -1,10 +1,10 @@
-# Contributing to RegainFlow Pipeline Visualizer
+# Contributing to Multi-Format Engineering ETL Pipeline
 
-Welcome to the RegainFlow Pipeline Visualizer project! We're excited to have you contribute. This document provides a comprehensive guide to understanding the project structure, our design system, and the workflow for contributing code.
+Welcome to the Multi-Format Engineering ETL Pipeline project! We're excited to have you contribute. This document provides a comprehensive guide to understanding the project structure, our design system, and the workflow for contributing code.
 
 ## 1. Project Overview
 
-RegainFlow Pipeline Visualizer is a modern, high-performance web application designed to visualize complex engineering ETL pipelines. It leverages a "Glass Morphism + Neon Aesthetic" to provide a premium, futuristic user experience.
+Multi-Format Engineering ETL Pipeline is a modern, high-performance web application designed to visualize complex engineering ETL pipelines. It leverages a "Glass Morphism + Neon Aesthetic" to provide a premium, futuristic user experience.
 
 ### Tech Stack
 - **Framework**: React 19 + Vite
@@ -23,8 +23,8 @@ RegainFlow Pipeline Visualizer is a modern, high-performance web application des
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/your-org/regainflow-pipeline-visualizer.git
-    cd regainflow-pipeline-visualizer
+    git clone https://github.com/your-org/multi-format-engineering-etl-pipeline.git
+    cd multi-format-engineering-etl-pipeline
     ```
 
 2.  **Install dependencies**

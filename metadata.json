@@ -1,5 +1,5 @@
 {
-  "name": "RegainFlow Pipeline Visualizer",
+  "name": "Multi-Format Engineering ETL Pipeline",
   "description": "A high-performance dashboard for monitoring the C# to Elasticsearch document processing pipeline, featuring a Glassmorphism + Neon aesthetic.",
   "requestFramePermissions": []
 }
